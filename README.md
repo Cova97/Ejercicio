@@ -1,0 +1,2 @@
+# Ejercicio
+Python num.primos
